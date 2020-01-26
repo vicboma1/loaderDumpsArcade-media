@@ -53,3 +53,7 @@
     <img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Splash/Trouble%20Witches/game.jpg" align="center" height="350" width="300">
 </p>
 
+<p align="center">
+    <img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Splash/Battle%20Fantasia/game.jpg" align="center" height="350" width="300">
+</p>
+
