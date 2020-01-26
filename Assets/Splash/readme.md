@@ -54,6 +54,6 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Splash/Battle%20Fantasia/game.jpg" align="center" height="350" width="300">
+    <img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Splash/Batlle%20Fantasia/game.jpg" align="center" height="350" width="300">
 </p>
 
