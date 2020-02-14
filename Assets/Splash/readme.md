@@ -62,3 +62,6 @@
     <img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Splash/PowerInstinct5/game.jpg" align="center" height="350" width="300">
 </p>
 
+<p align="center">
+    <img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Splash/The%20King%20of%20Fighter%20XII/game.jpg" align="center" height="350" width="300">
+</p>
