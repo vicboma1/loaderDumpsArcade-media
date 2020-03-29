@@ -69,3 +69,7 @@
 <p align="center">
     <img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Splash/Daemon%20Bride/daemon_bride_flyer.png" align="center" height="350" width="300">
 </p>
+
+<p align="center">
+    <img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Splash/BlazBlue%20Calamity%20Trigger/game.jpg" align="center" height="350" width="300">
+</p>
