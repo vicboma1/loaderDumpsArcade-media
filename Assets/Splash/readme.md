@@ -77,3 +77,7 @@
 <p align="center">
     <img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Splash/Blazblue%20Continuum%20Shift%20I/game.png" align="center" height="350" width="300">
 </p>
+
+<p align="center">
+    <img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Splash/Arcana%20Heart%202%20v2.1/game.jpg" align="center" height="350" width="300">
+</p>
