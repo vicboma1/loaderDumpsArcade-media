@@ -92,3 +92,7 @@
 <p align="center">
     <img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Splash/Super%20Street%20Fighter%20IV%20Arcade%20Edition%20v.1.0%20(Nesys)/StreetFighter%204%20Arcade%20Edition.png" align="center" height="350" width="300">
 </p>
+
+<p align="center">
+    <img src="https://github.com/vicboma1/loaderDumpsArcade-media/blob/master/Assets/Splash/King%20of%20fighters%20maximum%20impact%20Regulation%20A/King%20of%20Fighters%20Maximum%20Impact%20Regulation%20A.jpg" align="center" height="350" width="300">
+</p>
